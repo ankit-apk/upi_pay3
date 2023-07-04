@@ -167,28 +167,6 @@ Several BHIM apps have stopped working on <iOS 13.5. This package's iOS support 
 
 Default behaviour of the `getInstalledUpiApps` API is to give you only the completely successfully working UPI apps. You can make the package return other apps by passing relevant values for parameters of this API. Please see API documentation. To support this experimentation, we would add further tweaking to allow you to access UPI apps not seen and supported by this package shortly on Android.
 
-## Contributors ✨
-
-Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<table>
-  <tr>
-    <td align="center"><a href="https://drenther.xyz"><img src="https://avatars3.githubusercontent.com/u/12991390?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Soumyajit Pathak</b></sub></a><br /><a href="https://github.com/drenther/upi_pay/commits?author=drenther" title="Code">💻</a> <a href="#ideas-drenther" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/drenther/upi_pay/pulls?q=is%3Apr+reviewed-by%3Adrenther" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/drenther/upi_pay/commits?author=drenther" title="Documentation">📖</a> <a href="#maintenance-drenther" title="Maintenance">🚧</a> <a href="#research-drenther" title="Research">🔬</a></td>
-    <td align="center"><a href="http://www.piaxis.tech/"><img src="https://avatars0.githubusercontent.com/u/5516599?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Reetesh Ranjan</b></sub></a><br /><a href="https://github.com/drenther/upi_pay/commits?author=reeteshranjan" title="Code">💻</a> <a href="#ideas-reeteshranjan" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/drenther/upi_pay/pulls?q=is%3Apr+reviewed-by%3Areeteshranjan" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/drenther/upi_pay/commits?author=reeteshranjan" title="Documentation">📖</a> <a href="#maintenance-reeteshranjan" title="Maintenance">🚧</a> <a href="#research-reeteshranjan" title="Research">🔬</a></td>
-    <td align="center"><a href="https://sharadchand.com"><img src="https://avatars3.githubusercontent.com/u/29191131?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sharad Chand</b></sub></a><br /><a href="https://github.com/drenther/upi_pay/commits?author=pepsighan" title="Code">💻</a> <a href="#ideas-pepsighan" title="Ideas, Planning, & Feedback">🤔</a> <a href="#research-pepsighan" title="Research">🔬</a></td>
-    <td align="center"><a href="https://github.com/masterashu"><img src="https://avatars0.githubusercontent.com/u/39612799?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Adam Markon</b></sub></a><br /><a href="https://github.com/drenther/upi_pay/commits?author=masterashu" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-This project follows the all-contributors specification. Contributions of any kind welcome and will be recognised!
-
 ## Other related solutions
 
 - [upi_india](https://pub.dev/packages/upi_india) [(repo)](https://github.com/azhar1038/UPI-Plugin-Flutter) - Another solid flutter package for payment gateway free UPI integration. We often share issues faced / solution approaches and more. Go check them out as well!
